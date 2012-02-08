@@ -20,6 +20,5 @@ error_reporting(E_ALL);
 <a href="if.php">if(условия)</a><BR>
 <a href="types.php">Типы</a><BR>
 <a href="vars.php">Переменные</a><BR>
-<hr>
 </body>
 </html>
